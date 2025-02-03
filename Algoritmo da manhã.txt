@@ -1,0 +1,36 @@
+Algoritmo da manhã
+
+1- Indentifico o som do alarme
+2- Abro os olhos
+3- Levanto da cama
+4- Caminho até o celular
+5- Pressiono o botão "desligar"
+6- Caminho até a porta
+7- A porta está aberta? Sim
+    1- Coloco a mão na maçaneta
+    2- Giro e abro a porta
+8- Não
+    1- Coloco a mão na chave da maçaneta
+    2- giro 360 graus
+    3- abro a maçaneta
+9- Empurro a porta
+10- Caminho até o banheiro
+11- Vou até a pia
+12- Ligo a torneira
+12- Levo minhas mãos até a agua
+13- Levo minha mão até o rosto
+14- Levo meu rosto até a toalha
+15- Pego minha escova de dentes
+16- Viro com as serdas viradas para cima
+17- Pego a pasta de dente
+18- Posiciono sua saida de pasta em cima das cerdas da escova
+19- Pressiono moderadamente
+20- Paro de pressionar
+21- Levo a escova de dentes até a boca
+22- Abro a boca
+23- Esfrego os dentes de forma circular
+24- Cuspo na pia a pasta de dente
+25- Enxaguo a boca
+
+Fim
+
